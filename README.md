@@ -49,7 +49,7 @@ are included and can be applied to any similar dataset.
 
 ---
 
-## 📈 Principal Component Analysis (PCA)
+## 📉 Principal Component Analysis (PCA)
 
 In the notebook PCA shows:
 
